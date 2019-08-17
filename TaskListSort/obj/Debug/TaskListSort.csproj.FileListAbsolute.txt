@@ -1,0 +1,7 @@
+C:\Users\parkk\Documents\GitHub\test_preparation\TaskListSort\bin\Debug\TaskListSort.exe.config
+C:\Users\parkk\Documents\GitHub\test_preparation\TaskListSort\bin\Debug\TaskListSort.exe
+C:\Users\parkk\Documents\GitHub\test_preparation\TaskListSort\bin\Debug\TaskListSort.pdb
+C:\Users\parkk\Documents\GitHub\test_preparation\TaskListSort\obj\Debug\TaskListSort.csprojAssemblyReference.cache
+C:\Users\parkk\Documents\GitHub\test_preparation\TaskListSort\obj\Debug\TaskListSort.csproj.CoreCompileInputs.cache
+C:\Users\parkk\Documents\GitHub\test_preparation\TaskListSort\obj\Debug\TaskListSort.exe
+C:\Users\parkk\Documents\GitHub\test_preparation\TaskListSort\obj\Debug\TaskListSort.pdb

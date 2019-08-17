@@ -1,0 +1,7 @@
+C:\Users\parkk\Documents\GitHub\test_preparation\FileManager\bin\Debug\FileManager.exe.config
+C:\Users\parkk\Documents\GitHub\test_preparation\FileManager\bin\Debug\FileManager.exe
+C:\Users\parkk\Documents\GitHub\test_preparation\FileManager\bin\Debug\FileManager.pdb
+C:\Users\parkk\Documents\GitHub\test_preparation\FileManager\obj\Debug\FileManager.csprojAssemblyReference.cache
+C:\Users\parkk\Documents\GitHub\test_preparation\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+C:\Users\parkk\Documents\GitHub\test_preparation\FileManager\obj\Debug\FileManager.exe
+C:\Users\parkk\Documents\GitHub\test_preparation\FileManager\obj\Debug\FileManager.pdb

@@ -1,0 +1,7 @@
+C:\Users\parkk\Documents\GitHub\ServerProgram\bin\Debug\ServerProgram.exe.config
+C:\Users\parkk\Documents\GitHub\ServerProgram\bin\Debug\ServerProgram.exe
+C:\Users\parkk\Documents\GitHub\ServerProgram\bin\Debug\ServerProgram.pdb
+C:\Users\parkk\Documents\GitHub\ServerProgram\obj\Debug\ServerProgram.csprojAssemblyReference.cache
+C:\Users\parkk\Documents\GitHub\ServerProgram\obj\Debug\ServerProgram.csproj.CoreCompileInputs.cache
+C:\Users\parkk\Documents\GitHub\ServerProgram\obj\Debug\ServerProgram.exe
+C:\Users\parkk\Documents\GitHub\ServerProgram\obj\Debug\ServerProgram.pdb

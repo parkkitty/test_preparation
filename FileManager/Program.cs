@@ -25,9 +25,10 @@ namespace FileManager
             fl.GetFileList(currentFolder);
 
             fileInfo = fl.GetInfo();
-            fl.PrintConsole();
-
-            System.Console.WriteLine();
+            //fl.PrintConsole();
+            ServerClass server = new ServerClass("127.0.0.1", 21);
+            server.ServerStart();
+            System.Console.ReadLine();
 
         }
     }

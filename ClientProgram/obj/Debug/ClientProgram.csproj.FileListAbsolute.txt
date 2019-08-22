@@ -1,0 +1,7 @@
+C:\Users\parkk\Documents\GitHub\ClientProgram\bin\Debug\ClientProgram.exe.config
+C:\Users\parkk\Documents\GitHub\ClientProgram\bin\Debug\ClientProgram.exe
+C:\Users\parkk\Documents\GitHub\ClientProgram\bin\Debug\ClientProgram.pdb
+C:\Users\parkk\Documents\GitHub\ClientProgram\obj\Debug\ClientProgram.csprojAssemblyReference.cache
+C:\Users\parkk\Documents\GitHub\ClientProgram\obj\Debug\ClientProgram.csproj.CoreCompileInputs.cache
+C:\Users\parkk\Documents\GitHub\ClientProgram\obj\Debug\ClientProgram.exe
+C:\Users\parkk\Documents\GitHub\ClientProgram\obj\Debug\ClientProgram.pdb

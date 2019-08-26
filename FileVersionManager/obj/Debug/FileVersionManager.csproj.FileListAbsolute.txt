@@ -1,0 +1,7 @@
+C:\Users\parkk\Documents\GitHub\test_preparation\FileVersionManager\bin\Debug\FileVersionManager.exe.config
+C:\Users\parkk\Documents\GitHub\test_preparation\FileVersionManager\bin\Debug\FileVersionManager.exe
+C:\Users\parkk\Documents\GitHub\test_preparation\FileVersionManager\bin\Debug\FileVersionManager.pdb
+C:\Users\parkk\Documents\GitHub\test_preparation\FileVersionManager\obj\Debug\FileVersionManager.csprojAssemblyReference.cache
+C:\Users\parkk\Documents\GitHub\test_preparation\FileVersionManager\obj\Debug\FileVersionManager.csproj.CoreCompileInputs.cache
+C:\Users\parkk\Documents\GitHub\test_preparation\FileVersionManager\obj\Debug\FileVersionManager.exe
+C:\Users\parkk\Documents\GitHub\test_preparation\FileVersionManager\obj\Debug\FileVersionManager.pdb

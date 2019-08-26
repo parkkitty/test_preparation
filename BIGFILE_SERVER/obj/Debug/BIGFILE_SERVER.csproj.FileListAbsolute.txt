@@ -1,0 +1,7 @@
+C:\Users\parkk\Documents\GitHub\test_preparation\BIGFILE_SERVER\bin\Debug\BIGFILE_SERVER.exe.config
+C:\Users\parkk\Documents\GitHub\test_preparation\BIGFILE_SERVER\bin\Debug\BIGFILE_SERVER.exe
+C:\Users\parkk\Documents\GitHub\test_preparation\BIGFILE_SERVER\bin\Debug\BIGFILE_SERVER.pdb
+C:\Users\parkk\Documents\GitHub\test_preparation\BIGFILE_SERVER\obj\Debug\BIGFILE_SERVER.csprojAssemblyReference.cache
+C:\Users\parkk\Documents\GitHub\test_preparation\BIGFILE_SERVER\obj\Debug\BIGFILE_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\parkk\Documents\GitHub\test_preparation\BIGFILE_SERVER\obj\Debug\BIGFILE_SERVER.exe
+C:\Users\parkk\Documents\GitHub\test_preparation\BIGFILE_SERVER\obj\Debug\BIGFILE_SERVER.pdb

@@ -17,6 +17,7 @@ namespace FileVersionManager
         int ServerPort;
         Socket ServerSocket;
         Socket ClientSocket;
+        Dictionary<int, Socket> ClientSockets;
 
         public ServerClass(string ip, int port)
         {
@@ -31,10 +32,22 @@ namespace FileVersionManager
             ServerSocket.Bind(ServerEP);
 
             ServerSocket.Listen(10);
+            ClientSockets = new Dictionary<int, Socket>();
+            int num = 0;
 
             while (true)
             {
                 ClientSocket = ServerSocket.Accept();
+
+                if (ClientSocket.Connected)
+                {
+                    ClientSockets.Add(num, ClientSocket);
+                    num++;
+
+                }
+               // Action ClientAction = ClientSocket => ReceivedData;
+                //Task ReceiveTask = new Task();
+               // (ReceivedData)
                 Thread receive = new Thread(ReceivedData);
                 receive.Start(ClientSocket);
 
@@ -49,34 +62,55 @@ namespace FileVersionManager
             Socket ReceivedSocket = obj as Socket;
             Byte[] buffer = new byte[1024];
 
-            while(ReceivedSocket.Connected && ReceivedSocket != null)
+            try
             {
-                int numByte = ReceivedSocket.Receive(buffer);
-
-                if (numByte != 0)
+                while (ReceivedSocket.Connected && ReceivedSocket != null)
                 {
-                    string data = Encoding.UTF8.GetString(buffer).TrimEnd('\0');
-                    Debug.WriteLine("From Clietn {0}: {1}", ReceivedSocket.ToString(), data);
-                    ReceivedSocket.Send(Encoding.UTF8.GetBytes("ACK\n"));
-                    Array.Clear(buffer, 0, buffer.Length);
+                    int numByte = ReceivedSocket.Receive(buffer);
 
-                    if(data.Equals("SEND\r\n"))
+                    if (numByte != 0)
                     {
-                        DirectoryInfo di = new DirectoryInfo(Directory.GetCurrentDirectory());
-                        string path = di.Parent.Parent.FullName+@"\MERGED";
-                        DirectoryInfo d = new DirectoryInfo(path);
-                        FileInfo[] fi = d.GetFiles("*");
+                        string data = Encoding.UTF8.GetString(buffer).TrimEnd('\0');
+                        Debug.WriteLine("From Clietn {0}: {1}", ReceivedSocket.ToString(), data);
+                        ReceivedSocket.Send(Encoding.UTF8.GetBytes("ACK\n"));
+                        Array.Clear(buffer, 0, buffer.Length);
 
-                        foreach(FileInfo f in fi)
+                        if (data.Equals("SEND\r\n"))
                         {
-                            ReceivedSocket.SendFile(f.FullName);
+                            DirectoryInfo di = new DirectoryInfo(Directory.GetCurrentDirectory());
+                            string path = di.Parent.Parent.FullName + @"\MERGED";
+                            DirectoryInfo d = new DirectoryInfo(path);
+                            FileInfo[] fi = d.GetFiles("*");
+
+                            foreach (FileInfo f in fi)
+                            {
+                                foreach (KeyValuePair<int, Socket> client in ClientSockets)
+                                {
+                                    byte[] tmp = new byte[1024];
+                                    tmp = Encoding.UTF8.GetBytes(f.FullName);
+
+                                    client.Value.Send(tmp);
+                                    Array.Clear(tmp, 0, tmp.Length);
+                                    //client.Value.Close();
+                                    //ReceivedSocket.SendFile(f.FullName);
+                                }
+
+
+                            }
+
                         }
-                        
                     }
+
                 }
-
             }
-
+            catch(Exception e)
+            {
+                Debug.WriteLine(e.ToString());
+            }
+            finally
+            {
+                ReceivedSocket.Close();
+            }
            
 
 

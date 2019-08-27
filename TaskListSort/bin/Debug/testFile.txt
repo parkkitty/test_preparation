@@ -1,3 +1,6 @@
 Key : chrome.exe Value : 708,968
 Key : svchost.exe Value : 482,436
 Key : devenv.exe Value : 430,132
+Key : svchost.exe Value : 496,040
+Key : devenv.exe Value : 242,420
+Key : Memory Compression Value : 214,196

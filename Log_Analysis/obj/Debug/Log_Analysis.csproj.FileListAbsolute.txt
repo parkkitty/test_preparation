@@ -1,0 +1,7 @@
+C:\Users\parkk\Documents\GitHub\test_preparation\Log_Analysis\bin\Debug\Log_Analysis.exe.config
+C:\Users\parkk\Documents\GitHub\test_preparation\Log_Analysis\bin\Debug\Log_Analysis.exe
+C:\Users\parkk\Documents\GitHub\test_preparation\Log_Analysis\bin\Debug\Log_Analysis.pdb
+C:\Users\parkk\Documents\GitHub\test_preparation\Log_Analysis\obj\Debug\Log_Analysis.csprojAssemblyReference.cache
+C:\Users\parkk\Documents\GitHub\test_preparation\Log_Analysis\obj\Debug\Log_Analysis.csproj.CoreCompileInputs.cache
+C:\Users\parkk\Documents\GitHub\test_preparation\Log_Analysis\obj\Debug\Log_Analysis.exe
+C:\Users\parkk\Documents\GitHub\test_preparation\Log_Analysis\obj\Debug\Log_Analysis.pdb

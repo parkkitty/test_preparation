@@ -1,0 +1,6 @@
+C:\Users\parkk\Documents\GitHub\test_preparation\TestProgram\bin\Debug\TestProgram.exe.config
+C:\Users\parkk\Documents\GitHub\test_preparation\TestProgram\bin\Debug\TestProgram.exe
+C:\Users\parkk\Documents\GitHub\test_preparation\TestProgram\bin\Debug\TestProgram.pdb
+C:\Users\parkk\Documents\GitHub\test_preparation\TestProgram\obj\Debug\TestProgram.csproj.CoreCompileInputs.cache
+C:\Users\parkk\Documents\GitHub\test_preparation\TestProgram\obj\Debug\TestProgram.exe
+C:\Users\parkk\Documents\GitHub\test_preparation\TestProgram\obj\Debug\TestProgram.pdb

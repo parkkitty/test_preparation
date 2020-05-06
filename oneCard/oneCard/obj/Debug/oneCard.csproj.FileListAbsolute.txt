@@ -1,0 +1,7 @@
+C:\Users\parkk\Documents\tct_pretest\oneCard\oneCard\bin\Debug\oneCard.exe.config
+C:\Users\parkk\Documents\tct_pretest\oneCard\oneCard\bin\Debug\oneCard.exe
+C:\Users\parkk\Documents\tct_pretest\oneCard\oneCard\bin\Debug\oneCard.pdb
+C:\Users\parkk\Documents\tct_pretest\oneCard\oneCard\obj\Debug\oneCard.csprojAssemblyReference.cache
+C:\Users\parkk\Documents\tct_pretest\oneCard\oneCard\obj\Debug\oneCard.csproj.CoreCompileInputs.cache
+C:\Users\parkk\Documents\tct_pretest\oneCard\oneCard\obj\Debug\oneCard.exe
+C:\Users\parkk\Documents\tct_pretest\oneCard\oneCard\obj\Debug\oneCard.pdb

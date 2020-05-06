@@ -1,0 +1,7 @@
+C:\Users\parkk\Documents\tct_pretest\ZipString\IceBerg\bin\Debug\IceBerg.exe.config
+C:\Users\parkk\Documents\tct_pretest\ZipString\IceBerg\bin\Debug\IceBerg.exe
+C:\Users\parkk\Documents\tct_pretest\ZipString\IceBerg\bin\Debug\IceBerg.pdb
+C:\Users\parkk\Documents\tct_pretest\ZipString\IceBerg\obj\Debug\IceBerg.csprojAssemblyReference.cache
+C:\Users\parkk\Documents\tct_pretest\ZipString\IceBerg\obj\Debug\IceBerg.csproj.CoreCompileInputs.cache
+C:\Users\parkk\Documents\tct_pretest\ZipString\IceBerg\obj\Debug\IceBerg.exe
+C:\Users\parkk\Documents\tct_pretest\ZipString\IceBerg\obj\Debug\IceBerg.pdb

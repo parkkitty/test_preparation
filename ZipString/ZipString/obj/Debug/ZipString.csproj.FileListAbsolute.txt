@@ -1,0 +1,7 @@
+C:\Users\parkk\Documents\tct_pretest\ZipString\ZipString\bin\Debug\ZipString.exe.config
+C:\Users\parkk\Documents\tct_pretest\ZipString\ZipString\bin\Debug\ZipString.exe
+C:\Users\parkk\Documents\tct_pretest\ZipString\ZipString\bin\Debug\ZipString.pdb
+C:\Users\parkk\Documents\tct_pretest\ZipString\ZipString\obj\Debug\ZipString.csprojAssemblyReference.cache
+C:\Users\parkk\Documents\tct_pretest\ZipString\ZipString\obj\Debug\ZipString.csproj.CoreCompileInputs.cache
+C:\Users\parkk\Documents\tct_pretest\ZipString\ZipString\obj\Debug\ZipString.exe
+C:\Users\parkk\Documents\tct_pretest\ZipString\ZipString\obj\Debug\ZipString.pdb

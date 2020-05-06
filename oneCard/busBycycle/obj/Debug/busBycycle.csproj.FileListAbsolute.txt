@@ -1,0 +1,7 @@
+C:\Users\parkk\Documents\tct_pretest\oneCard\busBycycle\bin\Debug\busBycycle.exe.config
+C:\Users\parkk\Documents\tct_pretest\oneCard\busBycycle\bin\Debug\busBycycle.exe
+C:\Users\parkk\Documents\tct_pretest\oneCard\busBycycle\bin\Debug\busBycycle.pdb
+C:\Users\parkk\Documents\tct_pretest\oneCard\busBycycle\obj\Debug\busBycycle.csprojAssemblyReference.cache
+C:\Users\parkk\Documents\tct_pretest\oneCard\busBycycle\obj\Debug\busBycycle.csproj.CoreCompileInputs.cache
+C:\Users\parkk\Documents\tct_pretest\oneCard\busBycycle\obj\Debug\busBycycle.exe
+C:\Users\parkk\Documents\tct_pretest\oneCard\busBycycle\obj\Debug\busBycycle.pdb

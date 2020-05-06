@@ -1,0 +1,7 @@
+C:\Users\parkk\Documents\tct_pretest\ZipString\DirFileNum\bin\Debug\DirFileNum.exe.config
+C:\Users\parkk\Documents\tct_pretest\ZipString\DirFileNum\bin\Debug\DirFileNum.exe
+C:\Users\parkk\Documents\tct_pretest\ZipString\DirFileNum\bin\Debug\DirFileNum.pdb
+C:\Users\parkk\Documents\tct_pretest\ZipString\DirFileNum\obj\Debug\DirFileNum.csprojAssemblyReference.cache
+C:\Users\parkk\Documents\tct_pretest\ZipString\DirFileNum\obj\Debug\DirFileNum.csproj.CoreCompileInputs.cache
+C:\Users\parkk\Documents\tct_pretest\ZipString\DirFileNum\obj\Debug\DirFileNum.exe
+C:\Users\parkk\Documents\tct_pretest\ZipString\DirFileNum\obj\Debug\DirFileNum.pdb

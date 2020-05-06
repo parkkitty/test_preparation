@@ -1,0 +1,7 @@
+C:\Users\parkk\Documents\tct_pretest\oneCard\KeyPad\bin\Debug\KeyPad.exe.config
+C:\Users\parkk\Documents\tct_pretest\oneCard\KeyPad\bin\Debug\KeyPad.exe
+C:\Users\parkk\Documents\tct_pretest\oneCard\KeyPad\bin\Debug\KeyPad.pdb
+C:\Users\parkk\Documents\tct_pretest\oneCard\KeyPad\obj\Debug\KeyPad.csproj.CoreCompileInputs.cache
+C:\Users\parkk\Documents\tct_pretest\oneCard\KeyPad\obj\Debug\KeyPad.exe
+C:\Users\parkk\Documents\tct_pretest\oneCard\KeyPad\obj\Debug\KeyPad.pdb
+C:\Users\parkk\Documents\tct_pretest\oneCard\KeyPad\obj\Debug\KeyPad.csprojAssemblyReference.cache

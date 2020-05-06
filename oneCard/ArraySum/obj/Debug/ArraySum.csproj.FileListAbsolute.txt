@@ -1,0 +1,7 @@
+C:\Users\parkk\Documents\tct_pretest\oneCard\ArraySum\bin\Debug\ArraySum.exe.config
+C:\Users\parkk\Documents\tct_pretest\oneCard\ArraySum\bin\Debug\ArraySum.exe
+C:\Users\parkk\Documents\tct_pretest\oneCard\ArraySum\bin\Debug\ArraySum.pdb
+C:\Users\parkk\Documents\tct_pretest\oneCard\ArraySum\obj\Debug\ArraySum.csprojAssemblyReference.cache
+C:\Users\parkk\Documents\tct_pretest\oneCard\ArraySum\obj\Debug\ArraySum.csproj.CoreCompileInputs.cache
+C:\Users\parkk\Documents\tct_pretest\oneCard\ArraySum\obj\Debug\ArraySum.exe
+C:\Users\parkk\Documents\tct_pretest\oneCard\ArraySum\obj\Debug\ArraySum.pdb
